@@ -14,6 +14,9 @@
         content="Fruitly Agro Solutions is a leading fruit exporter and agriculture solutions provider in India. We specialize in fresh mangoes, pomegranates, guavas, apples, fertilizer solutions, milk business support, and end-to-end farm-to-market services.">
     <meta name="keywords"
         content="fruit exporter India, fresh mango exporter, pomegranate supplier, guava exporter, apple supplier India, agriculture solutions company, farm to market solutions, fruit import export company">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://fruitly.in">
+    <meta property="og:image" content="https://fruitly.in/assets/images/favicon.webp">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.webp"> <!-- CSS here -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/font-awesome-pro.min.css">
@@ -25,6 +28,15 @@
     <link rel="stylesheet" href="assets/css/odometer-theme-default.css">
     <link rel="stylesheet" href="assets/css/meanmenu.css">
     <link rel="stylesheet" href="assets/css/main.css">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0C0H91FQ7C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0C0H91FQ7C');
+</script>
 </head>
 
 <body>

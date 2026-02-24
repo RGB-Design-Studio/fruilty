@@ -12,6 +12,9 @@
         content="Fruitly Agro Solutions provides professional fruit import and export services, ensuring premium quality produce, international compliance, safe packaging, and timely global delivery.">
     <meta name="keywords"
         content="fruit export services India, fruit import export company, agricultural export services, fresh fruit exporter Maharashtra, global fruit trade company, farm to market solutions">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://fruitly.in/services.php">
+    <meta property="og:image" content="https://fruitly.in/assets/images/favicon.webp">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.webp"> <!-- CSS here -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/font-awesome-pro.min.css">
@@ -23,6 +26,15 @@
     <link rel="stylesheet" href="assets/css/odometer-theme-default.css">
     <link rel="stylesheet" href="assets/css/meanmenu.css">
     <link rel="stylesheet" href="assets/css/main.css">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0C0H91FQ7C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0C0H91FQ7C');
+</script>
 </head>
 
 <body>

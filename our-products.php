@@ -11,6 +11,9 @@
         content="Explore our range of premium fresh fruits including mango, bananas, pomegranate, guava, figs, custard apples and more — handpicked and delivered with care.">
     <meta name="keywords"
         content="fresh fruits range India, mango supplier India, pomegranate distributor, banana exporter, guava, figs, custard apple fruits">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://fruitly.in/our-products.php">
+    <meta property="og:image" content="https://fruitly.in/assets/images/favicon.webp">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.webp"> <!-- CSS here -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/font-awesome-pro.min.css">
@@ -22,6 +25,15 @@
     <link rel="stylesheet" href="assets/css/odometer-theme-default.css">
     <link rel="stylesheet" href="assets/css/meanmenu.css">
     <link rel="stylesheet" href="assets/css/main.css">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0C0H91FQ7C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0C0H91FQ7C');
+</script>
     <style>
     .section-separator2 {
         border-bottom: 1px dashed var(--tj-color-border-1);

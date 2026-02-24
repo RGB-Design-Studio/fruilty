@@ -11,6 +11,10 @@
         content="Understand the key challenges and growth opportunities farmers face in fruit export, including pricing, quality standards, certifications, and global demand trends.">
     <meta name="keywords"
         content="fruit export challenges, farmer export opportunities, agricultural export India, fruit quality standards, export certification process">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://fruitly.in/farmers-perspective-fruit-export.php">
+    <meta property="og:image" content="https://fruitly.in/assets/images/favicon.webp">
+
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.webp"> <!-- CSS here -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/font-awesome-pro.min.css">
@@ -22,6 +26,15 @@
     <link rel="stylesheet" href="assets/css/odometer-theme-default.css">
     <link rel="stylesheet" href="assets/css/meanmenu.css">
     <link rel="stylesheet" href="assets/css/main.css">
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0C0H91FQ7C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-0C0H91FQ7C');
+</script>
 </head>
 
 <body>
