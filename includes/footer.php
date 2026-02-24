@@ -37,11 +37,11 @@
                         <h5 class="title">Resources</h5>
                         <ul>
                             <li><a href="contact-us.php">Contact us</a></li>
-                            <li><a href="#.">Team Member</a></li>
-                            <li><a href="#.">Recognitions</a></li>
-                            <li><a href="#.">Careers</a></li>
-                            <li><a href="#.">News</a></li>
-                            <li><a href="#.">Feedback</a></li>
+                            <li><a href="coming-soon.php">Team Member</a></li>
+                            <li><a href="coming-soon.php">Recognitions</a></li>
+                            <li><a href="coming-soon.php">Careers</a></li>
+                            <li><a href="coming-soon.php">News</a></li>
+                            <li><a href="coming-soon.php">Feedback</a></li>
                         </ul>
                     </div>
                 </div>

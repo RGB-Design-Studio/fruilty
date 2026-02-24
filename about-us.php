@@ -163,7 +163,7 @@
                                     </div>
                                 </div>
                                 <div class="about-btn-area wow fadeInUp" data-wow-delay=".6s"> <a class="tj-primary-btn"
-                                        href="contact-us.php"> <span class="btn-text"><span>Learn More</span></span>
+                                        href="contact-us.php"> <span class="btn-text"><span>Read More</span></span>
                                         <span class="btn-icon"><i class="tji-arrow-right-long"></i></span> </a> </div>
                             </div>
                         </div>
