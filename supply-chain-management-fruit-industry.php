@@ -6,7 +6,11 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content=""> <!-- Site Title -->
-    <title>Fruitly Agro Solutions Pvt. Ltd.</title> <!-- Place favicon.ico in the root directory -->
+    <title>Supply Chain Management in the Fruit Industry | Farm to Global Market</title>
+    <meta name="description"
+        content="Explore how supply chain management ensures freshness, quality control, cold storage, transportation, and efficient delivery from farm to global fruit markets.">
+    <meta name="keywords"
+        content="fruit supply chain management, farm to market process, cold chain logistics fruits, fruit export supply chain, agriculture logistics India">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.webp"> <!-- CSS here -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/font-awesome-pro.min.css">

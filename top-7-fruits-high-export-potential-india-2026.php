@@ -6,7 +6,11 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content=""> <!-- Site Title -->
-    <title>Fruitly Agro Solutions Pvt. Ltd.</title> <!-- Place favicon.ico in the root directory -->
+    <title>Top 7 Fruits with High Export Potential from India in 2026</title>
+    <meta name="description"
+        content="Explore the top 7 fruits with high export potential from India in 2026, including mango, pomegranate, banana, grapes, and other high-demand international produce.">
+    <meta name="keywords"
+        content="top export fruits India 2026, high demand fruits export, mango export India, pomegranate export, fruit export business opportunities">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.webp"> <!-- CSS here -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/font-awesome-pro.min.css">

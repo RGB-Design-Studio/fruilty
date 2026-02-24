@@ -6,7 +6,11 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content=""> <!-- Site Title -->
-    <title>Fruitly Agro Solutions Pvt. Ltd.</title> <!-- Place favicon.ico in the root directory -->
+    <title>Our Fruits | Premium Fresh Fruits Range | Fruitly Agro</title>
+    <meta name="description"
+        content="Explore our range of premium fresh fruits including mango, bananas, pomegranate, guava, figs, custard apples and more — handpicked and delivered with care.">
+    <meta name="keywords"
+        content="fresh fruits range India, mango supplier India, pomegranate distributor, banana exporter, guava, figs, custard apple fruits">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.webp"> <!-- CSS here -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/font-awesome-pro.min.css">
@@ -67,7 +71,8 @@
                                     style="order: 0; place-self: auto; grid-area: auto; z-index: auto; float: none; flex-shrink: 1; display: block; margin: 0px; inset: auto; position: relative; flex-basis: auto; overflow: visible; box-sizing: border-box; width: 526px; height: 571px; padding: 0px;">
                                     <div class="team-details__img slidebar-stickiy wow fadeInUp" data-wow-delay=".1s"
                                         style="translate: none; rotate: none; scale: none; visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; inset: 0px auto auto 0px; margin: 0px; max-width: 526px; width: 526px; max-height: 300px; height: 300px; padding: 0px; transform: translate(0px, 0px);">
-                                        <img src="assets/images/pomegranate.jpeg" alt=""> </div>
+                                        <img src="assets/images/pomegranate.jpeg" alt="">
+                                    </div>
                                 </div>
                             </div> <!-- right -->
                             <div class="col-12 col-lg-7 ">
@@ -100,7 +105,8 @@
                                     style="order: 0; place-self: auto; grid-area: auto; z-index: auto; float: none; flex-shrink: 1; display: block; margin: 0px; inset: auto; position: relative; flex-basis: auto; overflow: visible; box-sizing: border-box; width: 526px; height: 571px; padding: 0px;">
                                     <div class="team-details__img slidebar-stickiy wow fadeInUp" data-wow-delay=".1s"
                                         style="translate: none; rotate: none; scale: none; visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; inset: 0px auto auto 0px; margin: 0px; max-width: 526px; width: 526px; max-height: 300px; height: 300px; padding: 0px; transform: translate(0px, 0px);">
-                                        <img src="assets/images/mango.jpeg" alt=""> </div>
+                                        <img src="assets/images/mango.jpeg" alt="">
+                                    </div>
                                 </div>
                             </div> <!-- right -->
                             <div class="col-12 col-lg-7 ">
@@ -136,7 +142,8 @@
                                     style="order: 0; place-self: auto; grid-area: auto; z-index: auto; float: none; flex-shrink: 1; display: block; margin: 0px; inset: auto; position: relative; flex-basis: auto; overflow: visible; box-sizing: border-box; width: 526px; height: 571px; padding: 0px;">
                                     <div class="team-details__img slidebar-stickiy wow fadeInUp" data-wow-delay=".1s"
                                         style="translate: none; rotate: none; scale: none; visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; inset: 0px auto auto 0px; margin: 0px; max-width: 526px; width: 526px; max-height: 300px; height: 300px; padding: 0px; transform: translate(0px, 0px);">
-                                        <img src="assets/images/guava.jpeg" alt=""> </div>
+                                        <img src="assets/images/guava.jpeg" alt="">
+                                    </div>
                                 </div>
                             </div> <!-- right -->
                             <div class="col-12 col-lg-7 ">
@@ -169,7 +176,8 @@
                                     style="order: 0; place-self: auto; grid-area: auto; z-index: auto; float: none; flex-shrink: 1; display: block; margin: 0px; inset: auto; position: relative; flex-basis: auto; overflow: visible; box-sizing: border-box; width: 526px; height: 571px; padding: 0px;">
                                     <div class="team-details__img slidebar-stickiy wow fadeInUp" data-wow-delay=".1s"
                                         style="translate: none; rotate: none; scale: none; visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; inset: 0px auto auto 0px; margin: 0px; max-width: 526px; width: 526px; max-height: 300px; height: 300px; padding: 0px; transform: translate(0px, 0px);">
-                                        <img src="assets/images/apple.jpeg" alt=""> </div>
+                                        <img src="assets/images/apple.jpeg" alt="">
+                                    </div>
                                 </div>
                             </div> <!-- right -->
                             <div class="col-12 col-lg-7 ">

@@ -6,7 +6,11 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content=""> <!-- Site Title -->
-    <title>Fruitly Agro Solutions Pvt. Ltd.</title> <!-- Place favicon.ico in the root directory -->
+    <title>Fruit Industry Insights & Agri Export Updates | Fruitly Blog</title>
+    <meta name="description"
+        content="Read the latest insights on fruit exports, agriculture trends, global trade updates, farming practices, and fresh produce industry news from Fruitly Agro Solutions.">
+    <meta name="keywords"
+        content="fruit export news, agriculture blog India, agri business insights, fresh fruit industry updates, farming trends India, fruit market analysis">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.webp"> <!-- CSS here -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/font-awesome-pro.min.css">
@@ -68,7 +72,8 @@
                                                     href="why-pomegranate-is-one-of-the-most-profitable-fruits-in-global-trade.php">Business</a></span>
                                             <span>By <a
                                                     href="why-pomegranate-is-one-of-the-most-profitable-fruits-in-global-trade.php">Ellinien
-                                                    Loma</a></span> </div>
+                                                    Loma</a></span>
+                                        </div>
                                         <h4 class="title"><a
                                                 href="why-pomegranate-is-one-of-the-most-profitable-fruits-in-global-trade.php">Why
                                                 Pomegranate is One of the Most Profitable Fruits in Global Trade</a>
@@ -92,7 +97,8 @@
                                                     href="understanding-the-fruit-import-and-export-process-a-complete-guide-for-beginners.php">Business</a></span>
                                             <span>By <a
                                                     href="understanding-the-fruit-import-and-export-process-a-complete-guide-for-beginners.php">Ellinien
-                                                    Loma</a></span> </div>
+                                                    Loma</a></span>
+                                        </div>
                                         <h4 class="title"><a
                                                 href="understanding-the-fruit-import-and-export-process-a-complete-guide-for-beginners.php">Understanding
                                                 the Fruit Import & Export Process: A Complete Guide for Beginners</a>
@@ -114,7 +120,8 @@
                                         <div class="blog-meta"> <span class="categories"><a
                                                     href="supply-chain-management-fruit-industry.php">Business</a></span>
                                             <span>By <a href="supply-chain-management-fruit-industry.php">Ellinien
-                                                    Loma</a></span> </div>
+                                                    Loma</a></span>
+                                        </div>
                                         <h4 class="title"><a href="supply-chain-management-fruit-industry.php">Supply
                                                 Chain Management in the Fruit Industry: From Farm to Global Market</a>
                                         </h4> <a class="text-btn" href="supply-chain-management-fruit-industry.php">
@@ -134,7 +141,8 @@
                                         <div class="blog-meta"> <span class="categories"><a
                                                     href="farmers-perspective-fruit-export.php">Business</a></span>
                                             <span>By <a href="farmers-perspective-fruit-export.php">Ellinien
-                                                    Loma</a></span> </div>
+                                                    Loma</a></span>
+                                        </div>
                                         <h4 class="title"><a href="farmers-perspective-fruit-export.php">From a Farmer’s
                                                 Perspective: Challenges and Opportunities in Fruit Export</a> </h4> <a
                                             class="text-btn" href="farmers-perspective-fruit-export.php"> <span
@@ -156,7 +164,8 @@
                                                     href="how-proper-packaging-increases-shelf-life-in-fruit-export-business.php">Business</a></span>
                                             <span>By <a
                                                     href="how-proper-packaging-increases-shelf-life-in-fruit-export-business.php">Ellinien
-                                                    Loma</a></span> </div>
+                                                    Loma</a></span>
+                                        </div>
                                         <h4 class="title"><a
                                                 href="how-proper-packaging-increases-shelf-life-in-fruit-export-business.php">How
                                                 Proper Packaging Increases Shelf Life in Fruit Export Business</a> </h4>
@@ -180,7 +189,8 @@
                                                     href="top-7-fruits-high-export-potential-india-2026.php">Business</a></span>
                                             <span>By <a
                                                     href="top-7-fruits-high-export-potential-india-2026.php">Ellinien
-                                                    Loma</a></span> </div>
+                                                    Loma</a></span>
+                                        </div>
                                         <h4 class="title"><a
                                                 href="top-7-fruits-high-export-potential-india-2026.php">Top 7 Fruits
                                                 with High Export Potential from India in 2026 </a> </h4> <a

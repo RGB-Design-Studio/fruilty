@@ -6,7 +6,12 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content=""> <!-- Site Title -->
-    <title>Fruitly Agro Solutions Pvt. Ltd.</title> <!-- Place favicon.ico in the root directory -->
+    <!-- Service Page SEO Meta Tags -->
+    <title>Import & Export Services | Fruitly Agro Solutions Pvt. Ltd.</title>
+    <meta name="description"
+        content="Fruitly Agro Solutions provides professional fruit import and export services, ensuring premium quality produce, international compliance, safe packaging, and timely global delivery.">
+    <meta name="keywords"
+        content="fruit export services India, fruit import export company, agricultural export services, fresh fruit exporter Maharashtra, global fruit trade company, farm to market solutions">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.webp"> <!-- CSS here -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/font-awesome-pro.min.css">

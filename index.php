@@ -6,7 +6,14 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content=""> <!-- Site Title -->
-    <title>Fruitly Agro Solutions Pvt. Ltd.</title> <!-- Place favicon.ico in the root directory -->
+    <!-- SEO Meta Tags -->
+    <title>
+        Fruitly Agro Solutions | Fresh Fruit Exporter & Agriculture Solutions India
+    </title>
+    <meta name="description"
+        content="Fruitly Agro Solutions is a leading fruit exporter and agriculture solutions provider in India. We specialize in fresh mangoes, pomegranates, guavas, apples, fertilizer solutions, milk business support, and end-to-end farm-to-market services.">
+    <meta name="keywords"
+        content="fruit exporter India, fresh mango exporter, pomegranate supplier, guava exporter, apple supplier India, agriculture solutions company, farm to market solutions, fruit import export company">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.webp"> <!-- CSS here -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/font-awesome-pro.min.css">

@@ -6,7 +6,11 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content=""> <!-- Site Title -->
-    <title>Fruitly Agro Solutions Pvt. Ltd.</title> <!-- Place favicon.ico in the root directory -->
+    <title>How Proper Packaging Increases Shelf Life in Fruit Export</title>
+    <meta name="description"
+        content="Discover how advanced packaging techniques, temperature control, and safe handling significantly increase fruit shelf life in the export business.">
+    <meta name="keywords"
+        content="fruit export packaging, increase shelf life fruits, cold storage packaging, fruit export safety, agricultural packaging solutions">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.webp"> <!-- CSS here -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/font-awesome-pro.min.css">

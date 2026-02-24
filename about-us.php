@@ -6,7 +6,12 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content=""> <!-- Site Title -->
-    <title>Fruitly Agro Solutions Pvt. Ltd.</title> <!-- Place favicon.ico in the root directory -->
+    <!-- About Page SEO Meta Tags -->
+    <title>About Fruitly Agro | Trusted Fruit Exporter & Agri Business Partner</title>
+    <meta name="description"
+        content="Learn about Fruitly Agro Solutions, a trusted fruit export and agriculture company delivering quality produce, global trade expertise, and complete farm-to-market solutions across India and international markets.">
+    <meta name="keywords"
+        content="about fruitly agro, fruit export company India, agriculture business India, agri export company Maharashtra, fruit trading company">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.webp"> <!-- CSS here -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/font-awesome-pro.min.css">
@@ -61,7 +66,8 @@
                                     <div class="heading-wrap-content">
                                         <div class="sec-heading">
                                             <h2 class="sec-title title-anim">Empowering Business with
-                                                <span>Expertise.</span></h2>
+                                                <span>Expertise.</span>
+                                            </h2>
                                         </div>
                                         <div class="btn-wrap wow fadeInUp" data-wow-delay=".6s"> <a
                                                 class="tj-primary-btn" href="contact-us.php"> <span
@@ -114,7 +120,7 @@
                                 <div class="about-img-area style-2 wow fadeInLeft" data-wow-delay=".3s">
                                     <div class="about-img overflow-hidden"> <img data-speed=".8"
                                             src="assets/images/about-1.jpg" alt=""> </div>
-                                   
+
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6 order-lg-2 order-1">
@@ -345,7 +351,7 @@
                     <div class="bg-shape-1"> <img src="assets/images/pattern-2.svg" alt=""> </div>
                     <div class="bg-shape-2"> <img src="assets/images/pattern-3.svg" alt=""> </div>
                 </section> <!-- end: Testimonial Section -->
-          
+
                 <!-- start: Faq Section -->
                 <section class="tj-faq-section section-gap tj-arrange-container-2">
                     <div class="container">

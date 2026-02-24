@@ -6,7 +6,11 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content=""> <!-- Site Title -->
-    <title>Fruitly Agro Solutions Pvt. Ltd.</title> <!-- Place favicon.ico in the root directory -->
+    <title>Understanding the Fruit Import & Export Process | Beginner Guide</title>
+    <meta name="description"
+        content="Learn the complete fruit import and export process including documentation, licensing, packaging, logistics, customs clearance, and international trade regulations.">
+    <meta name="keywords"
+        content="fruit import export process, how to export fruits from India, agricultural export guide, export documentation, fruit export business guide">
     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.webp"> <!-- CSS here -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/font-awesome-pro.min.css">
