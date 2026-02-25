@@ -3,16 +3,19 @@ stages:
 
 deploy_production:
   stage: deploy
-  only:
-    - main
+
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "main"'
+
+  environment:
+    name: production
+    url: http://209.182.234.23
 
   before_script:
     - apt-get update -y
     - apt-get install -y openssh-client rsync
-
-    # Prepare SSH
     - mkdir -p ~/.ssh
-    - printf "%s\n" "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+    - echo "$SSH_PRIVATE_KEY" | tr -d '\r' > ~/.ssh/id_rsa
     - chmod 600 ~/.ssh/id_rsa
     - ssh-keyscan -p 1222 209.182.234.23 >> ~/.ssh/known_hosts
 
