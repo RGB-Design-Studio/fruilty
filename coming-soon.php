@@ -50,7 +50,7 @@
                             <div class="col-12">
                                 <div class="tj-error-wrap text-center">
                                     <div class="tj-error-content">
-                                        <div class="error-img"> <img src="assets/images/coming-soon.jpeg" alt=""> </div>
+                                        <div class="error-img"> <img src="assets/images/coming-soon.webp" alt=""> </div>
                                         <h2 class="error-title title-anim" style="">
                                             <div style="display: block; text-align: center; position: relative;">
                                                 Something Fresh Is Coming Soon </div>

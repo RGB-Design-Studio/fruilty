@@ -261,7 +261,7 @@
                                     <div class="swiper service-slider">
                                         <div class="swiper-wrapper">
                                             <div class="swiper-slide">
-                                                <div class="service-item style-1">
+                                                <div class="service-item style-1 ">
                                                     <div class="service-img"> <img
                                                             src="assets/images/what-we-are-expert-at.jpeg" alt="">
                                                     </div>

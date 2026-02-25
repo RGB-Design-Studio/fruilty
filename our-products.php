@@ -80,9 +80,9 @@
                             <!--  left -->
                             <div class="col-12 col-md-8 col-lg-5">
                                 <div class="pin-spacer"
-                                    style="order: 0; place-self: auto; grid-area: auto; z-index: auto; float: none; flex-shrink: 1; display: block; margin: 0px; inset: auto; position: relative; flex-basis: auto; overflow: visible; box-sizing: border-box; width: 526px; height: 571px; padding: 0px;">
+                                    style="order: 0; place-self: auto; grid-area: auto; z-index: auto; float: none; flex-shrink: 1; display: block; margin: 0px; inset: auto; position: relative; flex-basis: auto; overflow: visible; box-sizing: border-box; width: 490px; height: 571px; padding: 0px;">
                                     <div class="team-details__img slidebar-stickiy wow fadeInUp" data-wow-delay=".1s"
-                                        style="translate: none; rotate: none; scale: none; visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; inset: 0px auto auto 0px; margin: 0px; max-width: 526px; width: 526px; max-height: 300px; height: 300px; padding: 0px; transform: translate(0px, 0px);">
+                                        style="translate: none; rotate: none; scale: none; visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; inset: 0px auto auto 0px; margin: 0px; max-width: 490px; width: 490px; max-height: 294px; height: 294px; padding: 0px; transform: translate(0px, 0px);">
                                         <img src="assets/images/pomegranate.jpeg" alt="">
                                     </div>
                                 </div>
@@ -114,9 +114,9 @@
                             <!--  left -->
                             <div class="col-12 col-md-8 col-lg-5">
                                 <div class="pin-spacer"
-                                    style="order: 0; place-self: auto; grid-area: auto; z-index: auto; float: none; flex-shrink: 1; display: block; margin: 0px; inset: auto; position: relative; flex-basis: auto; overflow: visible; box-sizing: border-box; width: 526px; height: 571px; padding: 0px;">
+                                    style="order: 0; place-self: auto; grid-area: auto; z-index: auto; float: none; flex-shrink: 1; display: block; margin: 0px; inset: auto; position: relative; flex-basis: auto; overflow: visible; box-sizing: border-box; width: 490px; height: 571px; padding: 0px;">
                                     <div class="team-details__img slidebar-stickiy wow fadeInUp" data-wow-delay=".1s"
-                                        style="translate: none; rotate: none; scale: none; visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; inset: 0px auto auto 0px; margin: 0px; max-width: 526px; width: 526px; max-height: 300px; height: 300px; padding: 0px; transform: translate(0px, 0px);">
+                                        style="translate: none; rotate: none; scale: none; visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; inset: 0px auto auto 0px; margin: 0px; max-width: 490px; width: 490px; max-height: 294px; height: 294px; padding: 0px; transform: translate(0px, 0px);">
                                         <img src="assets/images/mango.jpeg" alt="">
                                     </div>
                                 </div>
@@ -151,9 +151,9 @@
                             <!--  left -->
                             <div class="col-12 col-md-8 col-lg-5">
                                 <div class="pin-spacer"
-                                    style="order: 0; place-self: auto; grid-area: auto; z-index: auto; float: none; flex-shrink: 1; display: block; margin: 0px; inset: auto; position: relative; flex-basis: auto; overflow: visible; box-sizing: border-box; width: 526px; height: 571px; padding: 0px;">
+                                    style="order: 0; place-self: auto; grid-area: auto; z-index: auto; float: none; flex-shrink: 1; display: block; margin: 0px; inset: auto; position: relative; flex-basis: auto; overflow: visible; box-sizing: border-box; width: 490px; height: 571px; padding: 0px;">
                                     <div class="team-details__img slidebar-stickiy wow fadeInUp" data-wow-delay=".1s"
-                                        style="translate: none; rotate: none; scale: none; visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; inset: 0px auto auto 0px; margin: 0px; max-width: 526px; width: 526px; max-height: 300px; height: 300px; padding: 0px; transform: translate(0px, 0px);">
+                                        style="translate: none; rotate: none; scale: none; visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; inset: 0px auto auto 0px; margin: 0px; max-width: 490px; width: 490px; max-height: 294px; height: 294px; padding: 0px; transform: translate(0px, 0px);">
                                         <img src="assets/images/guava.jpeg" alt="">
                                     </div>
                                 </div>
@@ -185,9 +185,9 @@
                             <!--  left -->
                             <div class="col-12 col-md-8 col-lg-5">
                                 <div class="pin-spacer"
-                                    style="order: 0; place-self: auto; grid-area: auto; z-index: auto; float: none; flex-shrink: 1; display: block; margin: 0px; inset: auto; position: relative; flex-basis: auto; overflow: visible; box-sizing: border-box; width: 526px; height: 571px; padding: 0px;">
+                                    style="order: 0; place-self: auto; grid-area: auto; z-index: auto; float: none; flex-shrink: 1; display: block; margin: 0px; inset: auto; position: relative; flex-basis: auto; overflow: visible; box-sizing: border-box; width: 490px; height: 571px; padding: 0px;">
                                     <div class="team-details__img slidebar-stickiy wow fadeInUp" data-wow-delay=".1s"
-                                        style="translate: none; rotate: none; scale: none; visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; inset: 0px auto auto 0px; margin: 0px; max-width: 526px; width: 526px; max-height: 300px; height: 300px; padding: 0px; transform: translate(0px, 0px);">
+                                        style="translate: none; rotate: none; scale: none; visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp; inset: 0px auto auto 0px; margin: 0px; max-width: 490px; width: 490px; max-height: 294px; height: 294px; padding: 0px; transform: translate(0px, 0px);">
                                         <img src="assets/images/apple.jpeg" alt="">
                                     </div>
                                 </div>

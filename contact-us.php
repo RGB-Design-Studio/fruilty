@@ -80,7 +80,8 @@
                                 <div class="contact-item style-2 wow fadeInUp" data-wow-delay=".3s">
                                     <div class="contact-icon"> <i class="tji-location-3"></i> </div>
                                     <h3 class="contact-title">Our Location</h3>
-                                    <p>993 Renner Burg, West Rond, MT 94251-030</p>
+                                    <p>
+                                        Opposite Bharati Vidyapeeth Road, Katraj, Pune, Maharashtra 411046</p>
                                 </div>
                             </div>
                             <div class="col-xl-3 col-lg-6 col-sm-6">
@@ -88,8 +89,7 @@
                                     <div class="contact-icon"> <i class="tji-envelop"></i> </div>
                                     <h3 class="contact-title">Email us</h3>
                                     <ul class="contact-list">
-                                        <li><a href="mailto:support@bexon.com">support@bexon.com</a></li>
-                                        <li><a href="mailto:info@bexon.com">info@bexon.com</a></li>
+                                        <li><a href="mailto:fruitlyagro@gmail.com">fruitlyagro@gmail.com</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -98,8 +98,7 @@
                                     <div class="contact-icon"> <i class="tji-phone"></i> </div>
                                     <h3 class="contact-title">Call us</h3>
                                     <ul class="contact-list">
-                                        <li><a href="tel:10095447818">+1 (009) 544-7818</a></li>
-                                        <li><a href="tel:10098801810">+1 (009) 880-1810</a></li>
+                                        <li><a href="tel:+91 91450 00891">+91 91450 00891</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -108,7 +107,7 @@
                                     <div class="contact-icon"> <i class="tji-chat"></i> </div>
                                     <h3 class="contact-title">Live chat</h3>
                                     <ul class="contact-list">
-                                        <li><a href="mailto:livechat@bexon.com">livechat@bexon.com</a></li>
+                                        <li><a href="mailto:fruitlyagro@gmail.com">fruitlyagro@gmail.com</a></li>
                                         <li class="active"><a href="contact.php">Need help?</a></li>
                                     </ul>
                                 </div>

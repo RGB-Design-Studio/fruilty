@@ -9817,7 +9817,8 @@ START: Services CSS
 }
 .service-item.style-1::before {
   content: "";
-  background: var(--tj-color-theme-dark-2);
+ background: 
+#0c1e217b; 
   position: absolute;
   width: 100%;
   height: 100%;
@@ -9888,7 +9889,7 @@ START: Services CSS
   color: var(--tj-color-common-white);
 }
 .service-item.style-1 .service-content .title a:hover {
-  color: var(--tj-color-theme-primary);
+  color: var(--tj-color-common-white);
 }
 @media only screen and (min-width: 1200px) and (max-width: 1399px), only screen and (min-width: 992px) and (max-width: 1199px), only screen and (min-width: 768px) and (max-width: 991px), only screen and (min-width: 576px) and (max-width: 767px), (max-width: 575px) {
   .service-item.style-1 .service-content .title {
@@ -9896,7 +9897,7 @@ START: Services CSS
   }
 }
 .service-item.style-1 .service-content .desc {
-  color: var(--tj-color-text-body-2);
+  color: white !important;
   opacity: 0;
   visibility: hidden;
   height: 0;
@@ -9940,7 +9941,7 @@ START: Services CSS
 }
 .service-item.style-1:hover::before {
   background: var(--tj-color-theme-dark);
-  opacity: 0.7;
+  opacity: 0.9;
 }
 .service-item.style-1:hover::after {
   opacity: 0.3;
@@ -13386,6 +13387,7 @@ START: Contact CSS
   background-color: var(--tj-color-common-white);
   text-align: center;
   border-radius: 12px;
+  height: 280px !important;
 }
 @media only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
   .contact-item.style-2 {
