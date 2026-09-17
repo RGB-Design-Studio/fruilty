@@ -32,7 +32,54 @@ $mailer->Password = 'dlkafpqlgqbfmcyr';?>
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-		<title>Fruitly Agro</title>
+		<title>Fruitly Agro </title>
+
+
+
+<meta property="og:type"
+    content="website">
+
+<meta property="og:title"
+    content="Fruitly | Premium Fresh Fruits">
+
+<meta property="og:description"
+    content="Fruitly Agro Solutions brings premium fresh fruits directly from trusted farmers to customers in India and international markets.">
+
+<meta property="og:url"
+    content="https://fruitly.in/">
+
+<meta property="og:site_name"
+    content="Fruitly">
+
+<!-- 1200 × 630 PNG -->
+<meta property="og:image"
+    content="https://fruitly.in/assets/images/logo-og.png">
+
+<meta property="og:image:width"
+    content="1200">
+
+<meta property="og:image:height"
+    content="630">
+
+<meta property="og:image:type"
+    content="image/png">
+
+<meta property="og:locale"
+    content="en_IN">
+
+
+
+<meta name="twitter:card"
+    content="summary_large_image">
+
+<meta name="twitter:title"
+    content="Fruitly | Premium Fresh Fruits">
+
+<meta name="twitter:description"
+    content="Fruitly Agro Solutions brings premium fresh fruits directly from trusted farmers to customers in India and international markets.">
+
+<meta name="twitter:image"
+    content="https://fruitly.in/assets/images/logo-og.png">
 		 <script>
 		function redirectPage(){
 			window.location='https://fruitly.in/';

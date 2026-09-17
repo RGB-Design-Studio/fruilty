@@ -7,7 +7,23 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content=""> <!-- Site Title -->
     <!-- About Page SEO Meta Tags -->
-    <title>About Fruitly Agro | Trusted Fruit Exporter & Agri Business Partner</title>
+    <title>About Fruitly Agro | Trusted Fruit Exporter & Agri Business Partner </title>
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Fruitly | Premium Fresh Fruits">
+    <meta property="og:description"
+        content="Fruitly Agro Solutions brings premium fresh fruits directly from trusted farmers to customers in India and international markets.">
+    <meta property="og:url" content="https://fruitly.in/">
+    <meta property="og:site_name" content="Fruitly"><!-- 1200 × 630 PNG -->
+    <meta property="og:image" content="https://fruitly.in/assets/images/logo-og.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:locale" content="en_IN">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Fruitly | Premium Fresh Fruits">
+    <meta name="twitter:description"
+        content="Fruitly Agro Solutions brings premium fresh fruits directly from trusted farmers to customers in India and international markets.">
+    <meta name="twitter:image" content="https://fruitly.in/assets/images/logo-og.png">
     <meta name="description"
         content="Learn about Fruitly Agro Solutions, a trusted fruit export and agriculture company delivering quality produce, global trade expertise, and complete farm-to-market solutions across India and international markets.">
     <meta name="keywords"
@@ -23,15 +39,17 @@
     <link rel="stylesheet" href="assets/css/odometer-theme-default.css">
     <link rel="stylesheet" href="assets/css/meanmenu.css">
     <link rel="stylesheet" href="assets/css/main.css">
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-0C0H91FQ7C"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0C0H91FQ7C"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
 
-  gtag('config', 'G-0C0H91FQ7C');
-</script>
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'G-0C0H91FQ7C');
+    </script>
 </head>
 
 <body>
@@ -129,7 +147,6 @@
                                 <div class="about-img-area style-2 wow fadeInLeft" data-wow-delay=".3s">
                                     <div class="about-img overflow-hidden"> <img data-speed=".8"
                                             src="assets/images/about-1.jpg" alt=""> </div>
-
                                 </div>
                             </div>
                             <div class="col-xl-6 col-lg-6 order-lg-2 order-1">
@@ -360,7 +377,6 @@
                     <div class="bg-shape-1"> <img src="assets/images/pattern-2.svg" alt=""> </div>
                     <div class="bg-shape-2"> <img src="assets/images/pattern-3.svg" alt=""> </div>
                 </section> <!-- end: Testimonial Section -->
-
                 <!-- start: Faq Section -->
                 <section class="tj-faq-section section-gap tj-arrange-container-2">
                     <div class="container">

@@ -5,15 +5,26 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-
-    <!-- Site Title -->
-    <title>Fruitly Agro Solutions Pvt. Ltd.</title>
-
+    <meta name="description" content=""> <!-- Site Title -->
+    <title>Fruitly Agro Solutions Pvt. Ltd. </title>
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Fruitly | Premium Fresh Fruits">
+    <meta property="og:description"
+        content="Fruitly Agro Solutions brings premium fresh fruits directly from trusted farmers to customers in India and international markets.">
+    <meta property="og:url" content="https://fruitly.in/">
+    <meta property="og:site_name" content="Fruitly"><!-- 1200 × 630 PNG -->
+    <meta property="og:image" content="https://fruitly.in/assets/images/logo-og.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:locale" content="en_IN">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Fruitly | Premium Fresh Fruits">
+    <meta name="twitter:description"
+        content="Fruitly Agro Solutions brings premium fresh fruits directly from trusted farmers to customers in India and international markets.">
+    <meta name="twitter:image" content="https://fruitly.in/assets/images/logo-og.png">
     <!-- Place favicon.ico in the root directory -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.webp">
-
-    <!-- CSS here -->
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.webp"> <!-- CSS here -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/font-awesome-pro.min.css">
     <link rel="stylesheet" href="assets/css/animate.min.css">
@@ -24,46 +35,35 @@
     <link rel="stylesheet" href="assets/css/odometer-theme-default.css">
     <link rel="stylesheet" href="assets/css/meanmenu.css">
     <link rel="stylesheet" href="assets/css/main.css">
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-0C0H91FQ7C"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0C0H91FQ7C"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
 
-  gtag('config', 'G-0C0H91FQ7C');
-</script>
-
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'G-0C0H91FQ7C');
+    </script>
 </head>
 
 <body>
-    <div class="body-overlay"></div>
-
-    <!-- Preloader Start -->
+    <div class="body-overlay"></div> <!-- Preloader Start -->
     <?php include 'includes/preloader.php';?>
     <!-- Preloader End -->
-
     <!-- back to top start -->
     <div id="tj-back-to-top"><span id="tj-back-to-top-percentage"></span></div>
     <!-- back to top end -->
-
     <!-- start: Search Popup -->
     <div class="search-popup-overlay"></div>
     <!-- end: Search Popup -->
-
-
     <!-- sidepanel Start -->
     <?php include 'includes/sidepanel.php';?>
     <!-- sidepanel End -->
-
-
-
     <!-- header Start -->
     <?php include 'includes/header.php';?>
     <!-- header End -->
-
-
-
     <div id="smooth-wrapper">
         <div id="smooth-content">
             <main id="primary" class="site-main">
@@ -92,7 +92,6 @@
                     <div class="page-header-overlay" data-bg-image="assets/images/pheader-overlay.webp"></div>
                 </section>
                 <!-- end: Breadcrumb Section -->
-
                 <section class="tj-error-section">
                     <div class="container">
                         <div class="row">
@@ -181,16 +180,10 @@
                             </div>
                         </div>
                     </div>
-                </section>
-
-
-
-                <!-- footer Start -->
+                </section> <!-- footer Start -->
                 <?php include 'includes/cta.php';?>
                 <!-- footer End -->
-            </main>
-
-            <!-- footer Start -->
+            </main> <!-- footer Start -->
             <?php include 'includes/footer.php';?>
             <!-- footer End -->
             <!-- end: Footer Section -->

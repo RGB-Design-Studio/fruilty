@@ -6,15 +6,31 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content=""> <!-- Site Title -->
-    <title>Import & Export Services | Fruitly Agro Global Fruit Trade</title>
+    <title>Import & Export Services | Fruitly Agro Global Fruit Trade </title>
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Fruitly | Premium Fresh Fruits">
+    <meta property="og:description"
+        content="Fruitly Agro Solutions brings premium fresh fruits directly from trusted farmers to customers in India and international markets.">
+    <meta property="og:url" content="https://fruitly.in/">
+    <meta property="og:site_name" content="Fruitly"><!-- 1200 × 630 PNG -->
+    <meta property="og:image" content="https://fruitly.in/assets/images/logo-og.png">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+    <meta property="og:image:type" content="image/png">
+    <meta property="og:locale" content="en_IN">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Fruitly | Premium Fresh Fruits">
+    <meta name="twitter:description"
+        content="Fruitly Agro Solutions brings premium fresh fruits directly from trusted farmers to customers in India and international markets.">
+    <meta name="twitter:image" content="https://fruitly.in/assets/images/logo-og.png">
     <meta name="description"
         content="Fruitly Agro Solutions offers reliable fruit import and export services, ensuring premium quality produce, global compliance, safe packaging, and timely international delivery.">
     <meta name="keywords"
         content="fruit export India, fruit import company, global fruit trade, agricultural export services, fresh fruit exporter India, import export services Maharashtra">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://fruitly.in/import-export.php">
-    <meta property="og:image" content="https://fruitly.in/assets/images/favicon.webp">       
-     <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.webp"> <!-- CSS here -->
+    <meta property="og:image" content="https://fruitly.in/assets/images/favicon.webp">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.webp"> <!-- CSS here -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/css/font-awesome-pro.min.css">
     <link rel="stylesheet" href="assets/css/animate.min.css">
@@ -25,15 +41,17 @@
     <link rel="stylesheet" href="assets/css/odometer-theme-default.css">
     <link rel="stylesheet" href="assets/css/meanmenu.css">
     <link rel="stylesheet" href="assets/css/main.css">
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-0C0H91FQ7C"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-0C0H91FQ7C"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
 
-  gtag('config', 'G-0C0H91FQ7C');
-</script>
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'G-0C0H91FQ7C');
+    </script>
 </head>
 
 <body>
